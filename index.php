@@ -28,6 +28,12 @@
 <body>
 
 <!-- Her skal sidens indhold ligge -->
+<ul>
+    <li> mælk</li>
+    <li> ost</li>
+    <li> kød</li>
+    <li> brød</li>
+</ul>
 
 </body>
 </html>
